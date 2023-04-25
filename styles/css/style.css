@@ -1,0 +1,34 @@
+header {
+    background-color: red;
+    color: yellow;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav li>a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    margin: 20px;
+    background-color: green;
+    color: white
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
